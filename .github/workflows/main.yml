@@ -29,3 +29,4 @@ jobs:
         with:
           name: lumina-apk
           path: build/app/outputs/flutter-apk/app-debug.apk
+
